@@ -194,14 +194,14 @@ There are several limitations to keep in mind when interpreting the analysis:
 - Some records contain unknown or missing category values, which may affect certain comparisons.
 - The analysis focuses on the variables available in the SPARCS dataset and does not include factors such as detailed clinical outcomes or hospital-specific budget information.
 
-  ## Tools & Technologies
+## Tools & Technologies
 
 - **Python (Pandas):** Data preparation and exploratory analysis
 - **Google Colab:** Python-based data processing
 - **Parquet:** Storage of the processed dataset
 - **Power BI:** Data modeling, measures, interactive analysis, and dashboard development
 
-  ## Dashboard
+## Dashboard
 
 The Power BI dashboard is included in the `powerbi` folder, with screenshots of the three pages available in the `images` folder.
 
